@@ -1,0 +1,1 @@
+PATHS= {"raw_data": "C:\Users\zakar\OneDrive\Bureau\projects\techrec\data\technopark_startups.json"}
